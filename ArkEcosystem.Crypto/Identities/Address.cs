@@ -23,7 +23,6 @@
 
 using NBitcoin.DataEncoders;
 using NBitcoin;
-using SshNet.Security.Cryptography;
 using System.IO;
 
 namespace ArkEcosystem.Crypto.Identities
